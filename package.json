@@ -1,0 +1,23 @@
+{
+  "name": "2023todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chichihuang93076/2023todoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chichihuang93076/2023todoList/issues"
+  },
+  "homepage": "https://github.com/chichihuang93076/2023todoList#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
